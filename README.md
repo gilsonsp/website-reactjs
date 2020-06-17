@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto teve como objetivo implemetar um Website em HTML, CSS, JavaScript e Bootstrap para React.js. É um projeto do curso do Reginaldo Santos da (Udemy).
+
+![Tela Inicial do Website](https://imgur.com/sFME0ih "Tela Inicial do Website")
 
 ## Available Scripts
 
