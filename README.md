@@ -1,6 +1,8 @@
-Este projeto teve como objetivo implemetar um Website em HTML, CSS, JavaScript e Bootstrap para React.js. É um projeto do curso do Reginaldo Santos da (Udemy).
+Este projeto teve como objetivo implemetar um Website em HTML, CSS, JavaScript e Bootstrap para React.js e Firebase. É um projeto do curso do Reginaldo Santos da (Udemy). O link do projeto https://pedantic-bhabha-27eef4.netlify.app/ 
 
-![Tela Inicial do Website](https://imgur.com/sFME0ih "Tela Inicial do Website")
+Abaixo tela inicial do Website. 
+
+![Tela incial do Website](http://www.gilsonleite.com/tela_inicial_website.png "Tela incial do Website")
 
 ## Available Scripts
 
